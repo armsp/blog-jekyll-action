@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://armsp.github.io/blog-jekyll-action/sitemap.xml
